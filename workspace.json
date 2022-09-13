@@ -2,6 +2,7 @@
     "$schema": "./node_modules/nx/schemas/workspace-schema.json",
     "version": 2,
     "projects": {
+        "encoders": "packages/encoders",
         "model": "packages/model",
         "uid": "packages/uid"
     }

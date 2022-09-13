@@ -15,6 +15,7 @@
         "skipDefaultLibCheck": true,
         "baseUrl": ".",
         "paths": {
+            "@synked/encoders": ["packages/encoders/src/index.ts"],
             "@synked/id": ["packages/uid/src/index.ts"],
             "@synked/model": ["packages/model/src/index.ts"]
         }
